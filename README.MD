@@ -1,0 +1,9 @@
+This is a repository exploring a few ideas I have and things I like to try.
+
+I will attach youtube videos for the output.
+
+Turtle graphics is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzig and Seymour Papert in 1966.
+
+Imagine a robotic turtle starting at (0, 0) in the x-y plane. After an import turtle, give it the command turtle.forward(15), and it moves (on-screen!) 15 pixels in the direction it is facing, drawing a line as it moves. Give it the command turtle.right(25), and it rotates in-place 25 degrees clockwise.
+
+By combining together these and similar commands, intricate shapes and pictures can easily be drawn. https://docs.python.org/2/library/turtle.html
